@@ -13,3 +13,15 @@ pandas==1.2.4
 numpy==1.21.5
 seaborn==0.11.2
 ````
+### Try the desired parts of the project:
+
+
+## Authors
+
+| **AUTHORS** |Xiang Huang, Bingyao Li           |
+|-------------|--------------------------------------------------|
+| **VERSION** | V1.0 / December, 2025                               |
+| **EMAILS**  |xiang.huang@cumt.edu.cn                         |
+
+## Attribution
+This work is under BSD-2-Clause License. Please, acknowledge use of this work with the appropiate citation to the repository and research article.
