@@ -17,7 +17,6 @@ seaborn==0.11.2
 **Dataset**: Examples of questionnaire outcomes.<br>
 **ML_Classifier**: Training of five machine learning classifiers，including XGBoost, Random Forest, Support Vector Machine, K-Nearest Neighbors, and Artificial Neural Network (Multi-Layer Perceptron).<br>
 **Model_Explanation**: Feature contribution analysis based on SHAP and an optimized XGBoost classifier.<br>
-**Visualization**: Visualization of performance comparisons among different classifiers.
 
 
 ## Authors
