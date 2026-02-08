@@ -20,8 +20,9 @@ seaborn==0.11.2
 
 
 ## Authors
-| **AUTHORS** |Bingyao Li           |
+| **AUTHORS** |Bingyao Li, Tianzuo Yu           |
 |-------------|--------------------------------------------------|
+| **Affiliation** | Shanghai Jiaotong University           |
 | **VERSION** | V1.0 / December, 2025                               |
 
 ## Attribution
