@@ -18,12 +18,5 @@ seaborn==0.11.2
 **ML_Classifier**: Training of five machine learning classifiers，including XGBoost, Random Forest, Support Vector Machine, K-Nearest Neighbors, and Artificial Neural Network (Multi-Layer Perceptron).<br>
 **Model_Explanation**: Feature contribution analysis based on SHAP and an optimized XGBoost classifier.<br>
 
-
-## Authors
-| **AUTHORS** |Bingyao Li, Tianzuo Yu           |
-|-------------|--------------------------------------------------|
-| **Affiliation** | Shanghai Jiaotong University           |
-| **VERSION** | V1.0 / December, 2025                               |
-
 ## Attribution
 This work is under BSD-2-Clause License. Please, acknowledge use of this work with the appropiate citation to the repository and research article.
